@@ -1,0 +1,6 @@
+2023-08-06 02:44:41.883141 - Initialized conversion of CBT292
+2023-08-06 02:44:41.920391 - Received CBT.V505.FILE292.PDS from FILE292.XMI 
+2023-08-06 02:44:41.922583 - Found $$$$DOC.txt (text/plain) in CBT.V505.FILE292.PDS, moved to PDS/$$$$DOC
+2023-08-06 02:44:41.923675 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE292.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:44:41.924671 - Found @FILE292.txt (text/plain) in CBT.V505.FILE292.PDS, moved to PDS/@FILE292
+2023-08-06 02:44:41.925761 - Found CBT2HTML.txt (text/plain) in CBT.V505.FILE292.PDS, moved to PDS/CBT2HTML
